@@ -37,7 +37,7 @@ setup(
         "pytest-runner"
     ],
     install_requires=[
-        "cached_property>=1.3,<1.5",
+        "cached_property>=1.3,<1.6",
         "asyncio_extras>=1.3,<1.4",
         "click",
         "tqdm"
